@@ -5,3 +5,5 @@ Generation of Mazes done by: Randomized Kruskal Algorithm
 Solving done by: IDDFS, DFS, BFS, A* algorithm, Dijkstra's algorithm and Bellman Ford
 
 Repository contains Node, Algorithm and Main classes and 3 sample mazes
+
+Future Work: Wall Following Algorithm to be implmented
